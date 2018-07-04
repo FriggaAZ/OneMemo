@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,196",
+                        "endLines": "5,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "188,368"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,187",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "182,357"
+                    }
+                }
+            ]
+        }
+    ]
+}

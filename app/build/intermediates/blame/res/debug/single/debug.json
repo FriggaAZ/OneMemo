@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\layout_addcontent.xml.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\layout\\addcontent.xml"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\layout_cell.xml.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\layout\\cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select.xml.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\layout\\select.xml"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notebook.png.flat",
+        "source": "C:\\Users\\FriggaAZ\\Desktop\\HelloNotes1\\app\\src\\main\\res\\drawable-xxhdpi\\notebook.png"
+    }
+]
